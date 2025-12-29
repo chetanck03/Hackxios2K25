@@ -21,6 +21,19 @@ WalletX is a **game-changing multi-chain escrow platform** that revolutionizes D
 
 ![Aleph-WalletX Hero](./public/images/hero.png)
 
+## 🤖 **Built with Kiro - AI-Powered Development**
+
+> **This project was built using [Kiro](https://kiro.dev)**, an AI-powered IDE that transformed our development process. Kiro helped us plan, architect, and implement WalletX in just 4 days, saving ~40% development time while ensuring production-ready quality.
+
+**📁 See our complete Kiro documentation**: [`.kiro/` folder](/.kiro/) - Contains planning notes, session logs, and development journey
+
+**Key Kiro Contributions**:
+- 🎯 **Architecture Planning**: Designed multi-chain wallet structure
+- 🔐 **Security Reviews**: Smart contract security best practices
+- 🐛 **Debugging Assistance**: Quick problem identification and solutions
+- 📚 **Best Practices**: Modern React patterns and optimization techniques
+- ⚡ **Time Saved**: 40% faster development with Kiro's guidance
+
 ## 🔥 **Revolutionary Features That Make Us Win**
 
 ### 💎 **World's First Innovations**
@@ -275,6 +288,7 @@ npm run build
 ### 📋 **Complete Submission Package**
 - ✅ **Live Demo**: [walletx.software](https://walletx.software)
 - ✅ **GitHub Repo**: [Hackxios2K25](https://github.com/chetanck03/Hackxios2K25) (100% Open Source)
+- ✅ **Kiro Documentation**: [.kiro/ folder](/.kiro/) - Complete planning and development logs
 - ✅ **8 Smart Contracts**: Deployed across all major testnets
 - ✅ **Mobile Responsive**: Perfect mobile experience
 - ✅ **AI Integration**: Gemini AI assistant
